@@ -173,7 +173,7 @@
 											<div class="form-check">
 												<input type="checkbox" name="terms" class="form-check-input" id="tncCheck" checked >
 												<label class="form-check-label" for="tncCheck"><small>I agree to the 
-													<a href="https://rzwebmedia.com/terms-and-conditions/" target="_blank">terms and conditions</a> and <a href="https://rzwebmedia.com/wp-content/uploads/2021/10/Refund-Cancellation-Policy.pdf" target="_blank"> refund and cancellation</a> policy</small></label>
+													<a href="#" target="_blank">terms and conditions</a> and <a href="#" target="_blank"> refund and cancellation</a> policy</small></label>
 											</div>
 											</div>
 
