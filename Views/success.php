@@ -2,8 +2,8 @@
 
 <html>
 <head>
-	<title>Payment Success - RZ Web Media</title>
-	<link rel="shortcut icon" href="https://rzwebmedia.com/wp-content/uploads/2021/06/favicon.png" type="image/x-icon">
+	<title>Payment Success - Title</title>
+	<link rel="shortcut icon" href="#" type="image/x-icon">
 	  <style type="text/css">
   /**
    * Google webfonts. Recommended to include the .woff version for cross-client compatibility.
