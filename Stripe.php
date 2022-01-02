@@ -35,7 +35,7 @@ class stripe extends BaseController{
 				   $email->setTo($sessionStripe->customer_details->email);
 				   
 				   $email->setSubject('subject');
-				   $email->setMessage(view('success'));
+				   $email->setMessage(view('success',['sign'=>$sign,'products'=>$session->products,'price'=>$sessionStripe->amount_total]));
 
 				   if (!$email->send()) 
 				       log_message('error',$email->printDebugger(['headers']));
